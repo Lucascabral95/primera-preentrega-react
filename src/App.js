@@ -1,5 +1,9 @@
-import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './App.css';
+import logo from './logo.svg';
+import { Navbar } from "./components/Navbar/Navbar"
+
 
 function App() {
   return (
@@ -17,6 +21,7 @@ function App() {
         >
           Huella de Lucas Cabral
         </a>
+        <Navbar/>
       </header>
     </div>
   );
