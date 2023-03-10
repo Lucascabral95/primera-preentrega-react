@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Huella de Lucas Cabral
         </a>
       </header>
     </div>
